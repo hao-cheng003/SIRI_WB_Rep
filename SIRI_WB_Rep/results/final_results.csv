@@ -1,7 +1,0 @@
-Feature Set	Preprocessing	Classifier	Mean Accuracy	Std
-Python LBP 59-bin	no-crop	RLDA	83.90%	
-Balu LBP59	no-crop	RLDA	87.49%	
-Balu BSIF 5 _ 5 7-bit	no-crop	RLDA	87.83%	
-Balu BSIF 7 _ 7 8-bit	no-crop	RLDA	88.78%	
-Balu BSIF 9 _ 9 10-bit	no-crop	RLDA	90.85%	3.64%
-Balu LBP59 + BSIF 9 _ 9 10-bit	no-crop	RLDA	90.78% - 90.98%	Å3.4%
